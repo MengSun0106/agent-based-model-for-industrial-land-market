@@ -1,0 +1,52 @@
+{
+  "source_run": "paperB_final_5model_run_20260916/outputs/rerun_from_zero_20260916/01_empirical_alignment",
+  "completion_log_time": "2026-09-16T23:28:01+08:00",
+  "source_model": "empirical_alignment_model.nlogo (used to generate the archived simulation output; not included in this release package)",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "configuration": "scenario 4, enclave_type 2 (mixed), Standard Land starts at tick 5",
+  "alignment_years": [
+    2018,
+    2024
+  ],
+  "growth_years": [
+    2018,
+    2022
+  ],
+  "aggregation": "Mean city GDP across the same 30 seeds before empirical comparison",
+  "level_fit": "k=sum(real*sim)/sum(real**2); uncentred R2=1-SSE/sum(sim**2)",
+  "included_input_sha256": {
+    "data/empirical_alignment/validate2018_s4e2_v2_turtle_data_s4_e2_feijiazhiguan.csv": "a3710de7649cb2a7d2dbcd7bd21d0b9c80af1ff63be6fbfa3e2efac63613c68d",
+    "data/empirical_alignment/zhejiang_11city_gdp_2013_2024.csv": "a46eb84ddc316da078788caa100052f4ffac55db40b3f2212f39d3c1eb4ebfcf"
+  }
+}

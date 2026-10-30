@@ -1,0 +1,79 @@
+{
+  "design": {
+    "candidate_trajectories": 500,
+    "selected_trajectories": 20,
+    "num_levels": 4,
+    "sampling_seed": 20260825,
+    "analysis_seed": 20260826
+  },
+  "simulation": {
+    "report_tick": 30,
+    "seeds": [1, 2, 3, 4, 5],
+    "policy_configurations": {
+      "1": {"label": "Baseline", "scenario": 1, "enclave_type": 0},
+      "2": {"label": "SL", "scenario": 2, "enclave_type": 0},
+      "3": {"label": "Voluntary EIP", "scenario": 3, "enclave_type": 1},
+      "4": {"label": "Designated EIP", "scenario": 3, "enclave_type": 3},
+      "5": {"label": "SL + Voluntary EIP", "scenario": 4, "enclave_type": 1},
+      "6": {"label": "SL + Designated EIP", "scenario": 4, "enclave_type": 3}
+    }
+  },
+  "parameters": [
+    {
+      "name": "highest_preference_multiplier",
+      "netlogo_variable": "highest-preference-multiplier",
+      "baseline": 0.8181818181818182,
+      "lower": 0.6,
+      "upper": 1.4,
+      "source": "Existing alpha sensitivity variants (0.6, 1.0, 1.2 and 1.4). The exact reference-model thresholds correspond to 9/11 rather than the rounded label 0.8."
+    },
+    {
+      "name": "innovation_cost_coefficient",
+      "netlogo_variable": "innovation-cost-coefficient",
+      "baseline": 0.09,
+      "lower": 0.09,
+      "upper": 0.1,
+      "source": "Reference model (0.09) and gamma sensitivity variant (0.10)."
+    },
+    {
+      "name": "firm_entry_rate",
+      "netlogo_variable": "hatch_proportion",
+      "baseline": 0.0001,
+      "lower": 0.00005,
+      "upper": 0.00015,
+      "source": "Existing sens_hatch_main10 experiments."
+    },
+    {
+      "name": "competition_coefficient",
+      "netlogo_variable": "competition_value",
+      "baseline": 0.1,
+      "lower": 0.1,
+      "upper": 0.5,
+      "source": "Existing sens_comp_main10 experiments."
+    },
+    {
+      "name": "strategy_learning_coefficient",
+      "netlogo_variable": "value-influence",
+      "baseline": 0.1,
+      "lower": 0.1,
+      "upper": 0.5,
+      "source": "Existing sens_val_main10 experiments."
+    },
+    {
+      "name": "land_quota_scale",
+      "netlogo_variable": "quota-scale",
+      "baseline": 1.0,
+      "lower": 0.5,
+      "upper": 1.2,
+      "source": "Restricted robustness range representing plausible tightening or modest relaxation of construction-land quotas."
+    },
+    {
+      "name": "firm_exit_compensation",
+      "netlogo_variable": "exit-compensation-param",
+      "baseline": 1000.0,
+      "lower": 500.0,
+      "upper": 2000.0,
+      "source": "Reference model (1,000) and corrected tick-30 exit-compensation experiments (500 and 2,000)."
+    }
+  ]
+}

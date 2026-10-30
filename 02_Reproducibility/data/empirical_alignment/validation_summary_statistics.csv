@@ -1,0 +1,8 @@
+metric,value,p_value,n
+seed_count,30.0,,30
+pooled_share_pearson_r_2018_2024,0.9329314130753509,5.246394281212242e-35,77
+mean_yearly_rank_spearman_rho_2018_2024,0.7428571428571429,,7
+rank_years_p_below_0.05_2018_2024,6.0,,7
+ols_origin_scale_sim_per_real_2018_2024,19.99678588865122,,77
+ols_origin_uncentred_r2_2018_2024,0.9286325991596478,,77
+cagr_rank_spearman_rho_2018_2022,0.6727272727272727,0.023313039833185972,11

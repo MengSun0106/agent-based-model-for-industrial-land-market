@@ -1,0 +1,641 @@
+﻿sample_id,outcome,comparison,first_configuration_mean,second_configuration_mean,difference,supports_comparison
+0,Active EIP ties,Designated EIP > Voluntary EIP,22.2,2.4,19.8,1
+1,Active EIP ties,Designated EIP > Voluntary EIP,21.0,2.4,18.6,1
+2,Active EIP ties,Designated EIP > Voluntary EIP,23.8,3.8,20.0,1
+3,Active EIP ties,Designated EIP > Voluntary EIP,23.6,0.8,22.8,1
+4,Active EIP ties,Designated EIP > Voluntary EIP,23.4,0.4,23.0,1
+5,Active EIP ties,Designated EIP > Voluntary EIP,23.4,0.4,23.0,1
+6,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+7,Active EIP ties,Designated EIP > Voluntary EIP,19.4,0.0,19.4,1
+8,Active EIP ties,Designated EIP > Voluntary EIP,22.6,2.4,20.200000000000003,1
+9,Active EIP ties,Designated EIP > Voluntary EIP,19.2,3.0,16.2,1
+10,Active EIP ties,Designated EIP > Voluntary EIP,19.2,2.2,17.0,1
+11,Active EIP ties,Designated EIP > Voluntary EIP,18.8,0.0,18.8,1
+12,Active EIP ties,Designated EIP > Voluntary EIP,18.8,0.0,18.8,1
+13,Active EIP ties,Designated EIP > Voluntary EIP,18.8,0.0,18.8,1
+14,Active EIP ties,Designated EIP > Voluntary EIP,21.6,0.0,21.6,1
+15,Active EIP ties,Designated EIP > Voluntary EIP,18.8,0.0,18.8,1
+16,Active EIP ties,Designated EIP > Voluntary EIP,20.8,1.6,19.2,1
+17,Active EIP ties,Designated EIP > Voluntary EIP,21.2,2.4,18.8,1
+18,Active EIP ties,Designated EIP > Voluntary EIP,20.2,2.4,17.8,1
+19,Active EIP ties,Designated EIP > Voluntary EIP,22.6,3.2,19.400000000000002,1
+20,Active EIP ties,Designated EIP > Voluntary EIP,24.4,2.2,22.2,1
+21,Active EIP ties,Designated EIP > Voluntary EIP,23.2,2.2,21.0,1
+22,Active EIP ties,Designated EIP > Voluntary EIP,23.2,2.2,21.0,1
+23,Active EIP ties,Designated EIP > Voluntary EIP,22.6,0.0,22.6,1
+24,Active EIP ties,Designated EIP > Voluntary EIP,17.6,0.0,17.6,1
+25,Active EIP ties,Designated EIP > Voluntary EIP,17.6,0.0,17.6,1
+26,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+27,Active EIP ties,Designated EIP > Voluntary EIP,21.6,0.8,20.8,1
+28,Active EIP ties,Designated EIP > Voluntary EIP,15.8,0.8,15.0,1
+29,Active EIP ties,Designated EIP > Voluntary EIP,23.2,2.0,21.2,1
+30,Active EIP ties,Designated EIP > Voluntary EIP,22.4,3.8,18.599999999999998,1
+31,Active EIP ties,Designated EIP > Voluntary EIP,20.6,0.8,19.8,1
+32,Active EIP ties,Designated EIP > Voluntary EIP,23.8,0.0,23.8,1
+33,Active EIP ties,Designated EIP > Voluntary EIP,22.4,0.8,21.599999999999998,1
+34,Active EIP ties,Designated EIP > Voluntary EIP,21.0,0.8,20.2,1
+35,Active EIP ties,Designated EIP > Voluntary EIP,20.2,1.6,18.599999999999998,1
+36,Active EIP ties,Designated EIP > Voluntary EIP,19.4,0.0,19.4,1
+37,Active EIP ties,Designated EIP > Voluntary EIP,18.0,0.0,18.0,1
+38,Active EIP ties,Designated EIP > Voluntary EIP,18.2,0.0,18.2,1
+39,Active EIP ties,Designated EIP > Voluntary EIP,18.2,0.0,18.2,1
+40,Active EIP ties,Designated EIP > Voluntary EIP,23.6,1.6,22.0,1
+41,Active EIP ties,Designated EIP > Voluntary EIP,23.6,1.6,22.0,1
+42,Active EIP ties,Designated EIP > Voluntary EIP,23.6,1.6,22.0,1
+43,Active EIP ties,Designated EIP > Voluntary EIP,21.2,1.6,19.599999999999998,1
+44,Active EIP ties,Designated EIP > Voluntary EIP,21.6,1.6,20.0,1
+45,Active EIP ties,Designated EIP > Voluntary EIP,21.4,0.8,20.599999999999998,1
+46,Active EIP ties,Designated EIP > Voluntary EIP,20.8,0.0,20.8,1
+47,Active EIP ties,Designated EIP > Voluntary EIP,21.0,0.6,20.4,1
+48,Active EIP ties,Designated EIP > Voluntary EIP,22.6,0.6,22.0,1
+49,Active EIP ties,Designated EIP > Voluntary EIP,24.0,0.8,23.2,1
+50,Active EIP ties,Designated EIP > Voluntary EIP,24.0,0.8,23.2,1
+51,Active EIP ties,Designated EIP > Voluntary EIP,22.0,1.6,20.4,1
+52,Active EIP ties,Designated EIP > Voluntary EIP,20.0,0.8,19.2,1
+53,Active EIP ties,Designated EIP > Voluntary EIP,22.0,1.6,20.4,1
+54,Active EIP ties,Designated EIP > Voluntary EIP,21.4,1.6,19.799999999999997,1
+55,Active EIP ties,Designated EIP > Voluntary EIP,20.8,0.0,20.8,1
+56,Active EIP ties,Designated EIP > Voluntary EIP,21.2,0.0,21.2,1
+57,Active EIP ties,Designated EIP > Voluntary EIP,18.2,0.0,18.2,1
+58,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+59,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+60,Active EIP ties,Designated EIP > Voluntary EIP,20.0,0.0,20.0,1
+61,Active EIP ties,Designated EIP > Voluntary EIP,15.8,0.8,15.0,1
+62,Active EIP ties,Designated EIP > Voluntary EIP,21.0,0.8,20.2,1
+63,Active EIP ties,Designated EIP > Voluntary EIP,19.2,0.8,18.4,1
+64,Active EIP ties,Designated EIP > Voluntary EIP,19.4,0.0,19.4,1
+65,Active EIP ties,Designated EIP > Voluntary EIP,17.0,0.0,17.0,1
+66,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+67,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+68,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+69,Active EIP ties,Designated EIP > Voluntary EIP,20.6,0.6,20.0,1
+70,Active EIP ties,Designated EIP > Voluntary EIP,20.0,0.6,19.4,1
+71,Active EIP ties,Designated EIP > Voluntary EIP,24.0,1.6,22.4,1
+72,Active EIP ties,Designated EIP > Voluntary EIP,20.4,0.0,20.4,1
+73,Active EIP ties,Designated EIP > Voluntary EIP,20.4,0.0,20.4,1
+74,Active EIP ties,Designated EIP > Voluntary EIP,22.2,3.2,19.0,1
+75,Active EIP ties,Designated EIP > Voluntary EIP,23.4,4.0,19.4,1
+76,Active EIP ties,Designated EIP > Voluntary EIP,23.4,4.0,19.4,1
+77,Active EIP ties,Designated EIP > Voluntary EIP,19.6,1.6,18.0,1
+78,Active EIP ties,Designated EIP > Voluntary EIP,19.0,2.2,16.8,1
+79,Active EIP ties,Designated EIP > Voluntary EIP,19.0,1.6,17.4,1
+80,Active EIP ties,Designated EIP > Voluntary EIP,22.8,1.6,21.2,1
+81,Active EIP ties,Designated EIP > Voluntary EIP,24.2,3.2,21.0,1
+82,Active EIP ties,Designated EIP > Voluntary EIP,22.8,2.4,20.400000000000002,1
+83,Active EIP ties,Designated EIP > Voluntary EIP,22.0,2.4,19.6,1
+84,Active EIP ties,Designated EIP > Voluntary EIP,19.8,0.0,19.8,1
+85,Active EIP ties,Designated EIP > Voluntary EIP,20.6,0.0,20.6,1
+86,Active EIP ties,Designated EIP > Voluntary EIP,19.4,0.0,19.4,1
+87,Active EIP ties,Designated EIP > Voluntary EIP,19.4,0.0,19.4,1
+88,Active EIP ties,Designated EIP > Voluntary EIP,22.2,0.0,22.2,1
+89,Active EIP ties,Designated EIP > Voluntary EIP,22.6,0.0,22.6,1
+90,Active EIP ties,Designated EIP > Voluntary EIP,20.0,0.0,20.0,1
+91,Active EIP ties,Designated EIP > Voluntary EIP,18.2,0.0,18.2,1
+92,Active EIP ties,Designated EIP > Voluntary EIP,16.8,0.0,16.8,1
+93,Active EIP ties,Designated EIP > Voluntary EIP,16.8,0.0,16.8,1
+94,Active EIP ties,Designated EIP > Voluntary EIP,18.0,0.0,18.0,1
+95,Active EIP ties,Designated EIP > Voluntary EIP,21.0,2.4,18.6,1
+96,Active EIP ties,Designated EIP > Voluntary EIP,24.6,2.6,22.0,1
+97,Active EIP ties,Designated EIP > Voluntary EIP,23.6,0.0,23.6,1
+98,Active EIP ties,Designated EIP > Voluntary EIP,23.8,3.8,20.0,1
+99,Active EIP ties,Designated EIP > Voluntary EIP,23.6,0.8,22.8,1
+100,Active EIP ties,Designated EIP > Voluntary EIP,23.4,0.6,22.799999999999997,1
+101,Active EIP ties,Designated EIP > Voluntary EIP,23.4,0.4,23.0,1
+102,Active EIP ties,Designated EIP > Voluntary EIP,18.8,0.0,18.8,1
+103,Active EIP ties,Designated EIP > Voluntary EIP,20.0,0.0,20.0,1
+104,Active EIP ties,Designated EIP > Voluntary EIP,22.8,0.8,22.0,1
+105,Active EIP ties,Designated EIP > Voluntary EIP,21.8,3.0,18.8,1
+106,Active EIP ties,Designated EIP > Voluntary EIP,22.6,4.6,18.0,1
+107,Active EIP ties,Designated EIP > Voluntary EIP,22.6,4.6,18.0,1
+108,Active EIP ties,Designated EIP > Voluntary EIP,21.8,2.4,19.400000000000002,1
+109,Active EIP ties,Designated EIP > Voluntary EIP,21.6,0.0,21.6,1
+110,Active EIP ties,Designated EIP > Voluntary EIP,22.4,0.0,22.4,1
+111,Active EIP ties,Designated EIP > Voluntary EIP,20.2,0.0,20.2,1
+112,Active EIP ties,Designated EIP > Voluntary EIP,20.4,0.0,20.4,1
+113,Active EIP ties,Designated EIP > Voluntary EIP,20.4,0.0,20.4,1
+114,Active EIP ties,Designated EIP > Voluntary EIP,20.0,0.0,20.0,1
+115,Active EIP ties,Designated EIP > Voluntary EIP,22.0,0.0,22.0,1
+116,Active EIP ties,Designated EIP > Voluntary EIP,22.4,1.4,21.0,1
+117,Active EIP ties,Designated EIP > Voluntary EIP,21.4,0.0,21.4,1
+118,Active EIP ties,Designated EIP > Voluntary EIP,22.6,0.0,22.6,1
+119,Active EIP ties,Designated EIP > Voluntary EIP,23.0,0.0,23.0,1
+120,Active EIP ties,Designated EIP > Voluntary EIP,20.2,0.8,19.4,1
+121,Active EIP ties,Designated EIP > Voluntary EIP,22.6,0.8,21.8,1
+122,Active EIP ties,Designated EIP > Voluntary EIP,21.0,0.8,20.2,1
+123,Active EIP ties,Designated EIP > Voluntary EIP,18.8,0.0,18.8,1
+124,Active EIP ties,Designated EIP > Voluntary EIP,18.8,0.0,18.8,1
+125,Active EIP ties,Designated EIP > Voluntary EIP,19.6,0.8,18.8,1
+126,Active EIP ties,Designated EIP > Voluntary EIP,19.6,0.8,18.8,1
+127,Active EIP ties,Designated EIP > Voluntary EIP,19.6,0.8,18.8,1
+128,Active EIP ties,Designated EIP > Voluntary EIP,21.8,0.8,21.0,1
+129,Active EIP ties,Designated EIP > Voluntary EIP,22.4,1.4,21.0,1
+130,Active EIP ties,Designated EIP > Voluntary EIP,22.2,1.4,20.8,1
+131,Active EIP ties,Designated EIP > Voluntary EIP,23.2,1.4,21.8,1
+132,Active EIP ties,Designated EIP > Voluntary EIP,22.8,1.6,21.2,1
+133,Active EIP ties,Designated EIP > Voluntary EIP,22.8,1.6,21.2,1
+134,Active EIP ties,Designated EIP > Voluntary EIP,21.2,0.0,21.2,1
+135,Active EIP ties,Designated EIP > Voluntary EIP,21.6,0.0,21.6,1
+136,Active EIP ties,Designated EIP > Voluntary EIP,21.0,0.0,21.0,1
+137,Active EIP ties,Designated EIP > Voluntary EIP,17.4,0.0,17.4,1
+138,Active EIP ties,Designated EIP > Voluntary EIP,21.0,0.0,21.0,1
+139,Active EIP ties,Designated EIP > Voluntary EIP,19.8,0.0,19.8,1
+140,Active EIP ties,Designated EIP > Voluntary EIP,19.8,0.0,19.8,1
+141,Active EIP ties,Designated EIP > Voluntary EIP,19.8,0.0,19.8,1
+142,Active EIP ties,Designated EIP > Voluntary EIP,19.0,0.0,19.0,1
+143,Active EIP ties,Designated EIP > Voluntary EIP,19.6,1.6,18.0,1
+144,Active EIP ties,Designated EIP > Voluntary EIP,20.6,0.0,20.6,1
+145,Active EIP ties,Designated EIP > Voluntary EIP,20.6,0.0,20.6,1
+146,Active EIP ties,Designated EIP > Voluntary EIP,22.0,2.4,19.6,1
+147,Active EIP ties,Designated EIP > Voluntary EIP,22.8,4.0,18.8,1
+148,Active EIP ties,Designated EIP > Voluntary EIP,23.2,2.4,20.8,1
+149,Active EIP ties,Designated EIP > Voluntary EIP,22.0,3.2,18.8,1
+150,Active EIP ties,Designated EIP > Voluntary EIP,23.0,2.4,20.6,1
+151,Active EIP ties,Designated EIP > Voluntary EIP,22.4,1.6,20.799999999999997,1
+152,Active EIP ties,Designated EIP > Voluntary EIP,20.6,0.8,19.8,1
+153,Active EIP ties,Designated EIP > Voluntary EIP,22.2,1.6,20.599999999999998,1
+154,Active EIP ties,Designated EIP > Voluntary EIP,23.4,1.4,22.0,1
+155,Active EIP ties,Designated EIP > Voluntary EIP,23.4,1.4,22.0,1
+156,Active EIP ties,Designated EIP > Voluntary EIP,21.8,0.0,21.8,1
+157,Active EIP ties,Designated EIP > Voluntary EIP,22.6,1.6,21.0,1
+158,Active EIP ties,Designated EIP > Voluntary EIP,24.4,1.6,22.799999999999997,1
+159,Active EIP ties,Designated EIP > Voluntary EIP,23.2,4.8,18.4,1
+0,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.0,9.8,13.2,1
+1,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.0,10.8,10.2,1
+2,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.6,5.2,18.400000000000002,1
+3,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.2,4.2,17.0,1
+4,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,5.6,16.4,1
+5,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,5.6,16.4,1
+6,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.4,2.8,17.599999999999998,1
+7,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.6,2.4,19.200000000000003,1
+8,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,4.0,18.0,1
+9,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.8,2.4,16.400000000000002,1
+10,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,17.8,1.6,16.2,1
+11,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,6.2,14.600000000000001,1
+12,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,6.4,14.4,1
+13,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,0.8,19.8,1
+14,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.0,1.8,17.2,1
+15,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,1.8,18.8,1
+16,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.2,9.6,12.6,1
+17,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,9.6,12.4,1
+18,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.6,10.2,11.400000000000002,1
+19,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,7.2,14.8,1
+20,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.0,4.8,18.2,1
+21,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.2,4.8,19.4,1
+22,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.2,4.8,19.4,1
+23,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,2.2,18.400000000000002,1
+24,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,17.8,1.6,16.2,1
+25,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,17.8,1.6,16.2,1
+26,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.4,1.0,17.4,1
+27,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.8,1.6,17.2,1
+28,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.4,3.6,16.799999999999997,1
+29,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.8,4.8,18.0,1
+30,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,6.2,16.2,1
+31,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,4.8,16.599999999999998,1
+32,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.6,3.0,19.6,1
+33,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.8,0.8,23.0,1
+34,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,8.0,14.0,1
+35,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,4.8,17.599999999999998,1
+36,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.0,4.6,15.4,1
+37,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.2,4.2,15.0,1
+38,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.6,3.0,15.600000000000001,1
+39,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.6,3.0,15.600000000000001,1
+40,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.2,5.6,16.6,1
+41,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.8,6.0,15.8,1
+42,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.8,6.0,15.8,1
+43,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,6.0,16.0,1
+44,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.2,5.4,15.799999999999999,1
+45,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,1.8,19.599999999999998,1
+46,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,2.8,17.8,1
+47,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.8,6.6,15.200000000000001,1
+48,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.8,3.4,19.400000000000002,1
+49,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.4,2.6,20.799999999999997,1
+50,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.4,2.6,20.799999999999997,1
+51,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,8.6,13.799999999999999,1
+52,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.2,11.0,11.2,1
+53,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,10.6,11.799999999999999,1
+54,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,10.8,10.0,1
+55,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.8,6.0,13.8,1
+56,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.0,4.8,18.2,1
+57,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.0,0.8,19.2,1
+58,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.4,1.0,17.4,1
+59,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.4,1.0,17.4,1
+60,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,17.8,0.8,17.0,1
+61,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.4,3.6,16.799999999999997,1
+62,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.0,3.2,15.8,1
+63,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.6,2.4,16.200000000000003,1
+64,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.0,0.0,19.0,1
+65,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.0,2.2,17.8,1
+66,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.8,2.2,17.6,1
+67,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.8,2.2,17.6,1
+68,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.2,2.4,18.8,1
+69,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,2.8,17.8,1
+70,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.0,3.8,16.2,1
+71,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.2,5.4,17.799999999999997,1
+72,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.2,9.2,11.0,1
+73,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.4,10.4,9.999999999999998,1
+74,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.4,5.4,18.0,1
+75,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.8,6.2,15.600000000000001,1
+76,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.8,6.0,15.8,1
+77,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.0,3.2,17.8,1
+78,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,17.2,3.2,14.0,1
+79,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.4,2.4,15.999999999999998,1
+80,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.0,5.4,17.6,1
+81,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.6,6.2,16.400000000000002,1
+82,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,5.4,16.6,1
+83,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.2,11.6,9.6,1
+84,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,7.0,13.8,1
+85,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,8.4,12.200000000000001,1
+86,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,3.8,17.0,1
+87,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,3.8,17.0,1
+88,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.0,6.8,12.2,1
+89,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,6.8,14.599999999999998,1
+90,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.0,1.6,19.4,1
+91,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.8,0.8,19.0,1
+92,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,17.8,6.0,11.8,1
+93,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,17.8,6.0,11.8,1
+94,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.0,3.0,16.0,1
+95,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.4,1.6,18.799999999999997,1
+96,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.4,6.0,17.4,1
+97,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,5.0,17.4,1
+98,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.6,5.2,18.400000000000002,1
+99,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.2,4.2,17.0,1
+100,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,5.6,16.4,1
+101,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,5.6,16.4,1
+102,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,6.2,14.400000000000002,1
+103,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.0,7.0,12.0,1
+104,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.4,3.8,19.599999999999998,1
+105,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.6,4.0,18.6,1
+106,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.0,5.6,18.4,1
+107,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.0,5.6,18.4,1
+108,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,10.6,10.799999999999999,1
+109,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,3.8,16.8,1
+110,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.4,4.0,16.4,1
+111,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.0,3.8,17.2,1
+112,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.0,0.8,19.2,1
+113,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.0,0.8,19.2,1
+114,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,2.4,19.0,1
+115,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,1.6,19.2,1
+116,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,6.2,15.2,1
+117,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.8,9.2,13.600000000000001,1
+118,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.8,8.4,15.4,1
+119,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.6,8.4,15.200000000000001,1
+120,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,6.4,15.999999999999998,1
+121,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.0,6.2,14.8,1
+122,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.6,6.4,13.200000000000001,1
+123,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.8,6.2,14.600000000000001,1
+124,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.6,0.8,19.8,1
+125,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.2,1.2,17.0,1
+126,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.2,2.4,16.8,1
+127,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.2,2.4,16.8,1
+128,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,4.8,16.599999999999998,1
+129,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,7.4,14.999999999999998,1
+130,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,7.6,14.799999999999999,1
+131,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.0,8.6,11.4,1
+132,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.8,7.4,16.4,1
+133,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.8,7.4,16.4,1
+134,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.2,9.0,11.2,1
+135,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.8,4.6,17.200000000000003,1
+136,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.6,7.6,14.000000000000002,1
+137,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.8,3.2,16.6,1
+138,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,18.6,3.8,14.8,1
+139,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.2,3.0,16.2,1
+140,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.2,3.2,16.0,1
+141,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.2,2.4,17.8,1
+142,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.0,0.0,19.0,1
+143,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,19.8,3.6,16.2,1
+144,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,3.8,18.2,1
+145,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,4.0,18.0,1
+146,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.8,9.6,13.200000000000001,1
+147,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.6,6.4,18.200000000000003,1
+148,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.2,6.0,18.2,1
+149,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.2,6.2,18.0,1
+150,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.4,4.6,17.799999999999997,1
+151,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,21.4,5.8,15.599999999999998,1
+152,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,20.4,1.4,19.0,1
+153,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,22.0,8.6,13.4,1
+154,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.6,3.2,21.400000000000002,1
+155,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.6,3.2,21.400000000000002,1
+156,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.2,4.4,19.799999999999997,1
+157,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.8,4.6,19.200000000000003,1
+158,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,24.2,3.6,20.599999999999998,1
+159,Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,23.0,7.0,16.0,1
+0,Mean city output,Designated EIP > Baseline,1034338.6682760597,598376.7155286375,435961.95274742215,1
+1,Mean city output,Designated EIP > Baseline,1032064.6788019413,584619.7222997657,447444.95650217566,1
+2,Mean city output,Designated EIP > Baseline,977679.6360620663,621634.1855263235,356045.4505357428,1
+3,Mean city output,Designated EIP > Baseline,542652.3216317596,355185.00723407534,187467.3143976843,1
+4,Mean city output,Designated EIP > Baseline,549278.4261454584,364915.040656526,184363.38548893237,1
+5,Mean city output,Designated EIP > Baseline,549278.4261454584,350809.6974842636,198468.72866119473,1
+6,Mean city output,Designated EIP > Baseline,603113.3059378483,366154.9206793974,236958.38525845087,1
+7,Mean city output,Designated EIP > Baseline,595770.1168476423,361536.6146748176,234233.50217282475,1
+8,Mean city output,Designated EIP > Baseline,785813.2016950329,480705.43071351945,305107.77098151343,1
+9,Mean city output,Designated EIP > Baseline,338949.46459591266,228639.83130408358,110309.63329182909,1
+10,Mean city output,Designated EIP > Baseline,336506.18037462106,235484.57424444015,101021.60613018091,1
+11,Mean city output,Designated EIP > Baseline,455353.9996272443,214049.86454780409,241304.13507944022,1
+12,Mean city output,Designated EIP > Baseline,455353.9996272443,208295.82950845355,247058.17011879076,1
+13,Mean city output,Designated EIP > Baseline,398881.5697889603,215246.49824273595,183635.07154622432,1
+14,Mean city output,Designated EIP > Baseline,377185.1022137311,198646.31444030412,178538.78777342697,1
+15,Mean city output,Designated EIP > Baseline,449871.8970386431,208085.52627863936,241786.37076000372,1
+16,Mean city output,Designated EIP > Baseline,964685.4144388366,593802.4368158312,370882.9776230054,1
+17,Mean city output,Designated EIP > Baseline,993246.0775530108,606688.7115037951,386557.36604921566,1
+18,Mean city output,Designated EIP > Baseline,1162737.9072788856,616000.7914425193,546737.1158363663,1
+19,Mean city output,Designated EIP > Baseline,1075726.8539600624,606928.4019642732,468798.4519957892,1
+20,Mean city output,Designated EIP > Baseline,1036267.7058269255,623623.3647979738,412644.3410289517,1
+21,Mean city output,Designated EIP > Baseline,999245.5965020042,658495.5203077982,340750.076194206,1
+22,Mean city output,Designated EIP > Baseline,999245.5965020042,661554.6765472319,337690.91995477234,1
+23,Mean city output,Designated EIP > Baseline,540389.7398895326,369577.0855841522,170812.65430538036,1
+24,Mean city output,Designated EIP > Baseline,404581.2083841629,216584.7654913526,187996.44289281033,1
+25,Mean city output,Designated EIP > Baseline,404581.2083841629,219736.92981931302,184844.2785648499,1
+26,Mean city output,Designated EIP > Baseline,375078.2694580947,218251.68559057388,156826.58386752085,1
+27,Mean city output,Designated EIP > Baseline,321215.1138843542,215870.9576677732,105344.15621658097,1
+28,Mean city output,Designated EIP > Baseline,274427.845469686,224947.26863788706,49480.57683179897,1
+29,Mean city output,Designated EIP > Baseline,753134.1342972558,491106.7452653622,262027.38903189357,1
+30,Mean city output,Designated EIP > Baseline,869133.9829762767,480966.2071853895,388167.7757908872,1
+31,Mean city output,Designated EIP > Baseline,830793.8206124955,474586.95692881884,356206.8636836767,1
+32,Mean city output,Designated EIP > Baseline,782035.6104467332,498267.67053773627,283767.9399089969,1
+33,Mean city output,Designated EIP > Baseline,777901.7460697129,477129.53795838245,300772.20811133046,1
+34,Mean city output,Designated EIP > Baseline,787818.3033003961,493294.9822075783,294523.32109281776,1
+35,Mean city output,Designated EIP > Baseline,322797.26787312864,220837.66719365297,101959.60067947567,1
+36,Mean city output,Designated EIP > Baseline,385714.7742884541,214834.92355704593,170879.85073140817,1
+37,Mean city output,Designated EIP > Baseline,355779.73102689337,222816.7805836199,132962.95044327347,1
+38,Mean city output,Designated EIP > Baseline,428396.396225094,204344.9551423001,224051.44108279387,1
+39,Mean city output,Designated EIP > Baseline,428396.396225094,211232.49150904463,217163.90471604935,1
+40,Mean city output,Designated EIP > Baseline,1066484.731571793,549558.3115340568,516926.4200377363,1
+41,Mean city output,Designated EIP > Baseline,984225.3407195419,562003.7305486117,422221.61017093016,1
+42,Mean city output,Designated EIP > Baseline,984225.3407195419,571377.1703937191,412848.1703258228,1
+43,Mean city output,Designated EIP > Baseline,1017165.7218869834,565585.3446560963,451580.37723088707,1
+44,Mean city output,Designated EIP > Baseline,938942.6561923217,571156.1319309433,367786.52426137833,1
+45,Mean city output,Designated EIP > Baseline,553788.547576288,321815.67446216434,231972.87311412365,1
+46,Mean city output,Designated EIP > Baseline,573399.626650038,347078.08931243,226321.53733760794,1
+47,Mean city output,Designated EIP > Baseline,527117.4259763072,359880.39491419337,167237.03106211388,1
+48,Mean city output,Designated EIP > Baseline,1072184.2322593904,661282.7340802869,410901.4981791035,1
+49,Mean city output,Designated EIP > Baseline,1038131.1273067843,649842.2287264186,388288.8985803657,1
+50,Mean city output,Designated EIP > Baseline,1038131.1273067843,628272.3861450308,409858.7411617534,1
+51,Mean city output,Designated EIP > Baseline,1097964.8971094512,592776.3369537296,505188.5601557216,1
+52,Mean city output,Designated EIP > Baseline,1019003.7390313816,565081.9353640372,453921.8036673444,1
+53,Mean city output,Designated EIP > Baseline,1027706.1672968257,596315.0559299525,431391.11136687314,1
+54,Mean city output,Designated EIP > Baseline,1020379.4738388518,579489.6252064267,440889.84863242507,1
+55,Mean city output,Designated EIP > Baseline,589962.8806860187,340982.32280488464,248980.5578811341,1
+56,Mean city output,Designated EIP > Baseline,892754.4774258563,495743.23634652206,397011.2410793342,1
+57,Mean city output,Designated EIP > Baseline,424536.3195474384,223737.61023972416,200798.70930771425,1
+58,Mean city output,Designated EIP > Baseline,375078.2694580947,222884.33424839284,152193.9352097019,1
+59,Mean city output,Designated EIP > Baseline,375078.2694580947,224167.83349901688,150910.43595907785,1
+60,Mean city output,Designated EIP > Baseline,362005.719492418,222051.80564689898,139953.913845519,1
+61,Mean city output,Designated EIP > Baseline,274427.845469686,226790.1510793968,47637.69439028922,1
+62,Mean city output,Designated EIP > Baseline,263795.18791949656,214523.42639950354,49271.761519993015,1
+63,Mean city output,Designated EIP > Baseline,280691.54232796363,214286.77735537663,66404.764972587,1
+64,Mean city output,Designated EIP > Baseline,422418.7063552925,197341.09221775323,225077.6141375393,1
+65,Mean city output,Designated EIP > Baseline,448937.663845959,211755.54454637817,237182.11929958084,1
+66,Mean city output,Designated EIP > Baseline,382991.0704079679,217009.89848871174,165981.17191925616,1
+67,Mean city output,Designated EIP > Baseline,382991.0704079679,210829.8930379008,172161.1773700671,1
+68,Mean city output,Designated EIP > Baseline,414624.0999272062,216816.2095311978,197807.89039600838,1
+69,Mean city output,Designated EIP > Baseline,349606.45137624897,231696.71515283757,117909.7362234114,1
+70,Mean city output,Designated EIP > Baseline,291782.6748396192,225735.82347915944,66046.85136045975,1
+71,Mean city output,Designated EIP > Baseline,779085.068508723,489528.3286165949,289556.73989212816,1
+72,Mean city output,Designated EIP > Baseline,933558.2242308899,483113.9344665923,450444.2897642976,1
+73,Mean city output,Designated EIP > Baseline,950914.8035278665,481375.98707349773,469538.81645436876,1
+74,Mean city output,Designated EIP > Baseline,820534.6003436691,506767.33535174234,313767.2649919267,1
+75,Mean city output,Designated EIP > Baseline,734270.6043181712,484906.76738410874,249363.83693406242,1
+76,Mean city output,Designated EIP > Baseline,734270.6043181712,484532.3676931802,249738.23662499094,1
+77,Mean city output,Designated EIP > Baseline,272194.09535402444,219008.63490265087,53185.46045137357,1
+78,Mean city output,Designated EIP > Baseline,282209.5801775599,218054.1632361963,64155.41694136363,1
+79,Mean city output,Designated EIP > Baseline,375304.24518898607,229219.9162533491,146084.32893563696,1
+80,Mean city output,Designated EIP > Baseline,1117413.0365059737,613285.2712189707,504127.765287003,1
+81,Mean city output,Designated EIP > Baseline,1101350.463277464,627431.6338275786,473918.8294498854,1
+82,Mean city output,Designated EIP > Baseline,1006914.5950928271,639151.2758068119,367763.31928601523,1
+83,Mean city output,Designated EIP > Baseline,954723.9144403785,599666.3383019114,355057.5761384672,1
+84,Mean city output,Designated EIP > Baseline,603745.1242703627,340287.9286869295,263457.19558343315,1
+85,Mean city output,Designated EIP > Baseline,562564.5218189663,339216.0057864314,223348.51603253488,1
+86,Mean city output,Designated EIP > Baseline,552291.9624177495,336189.0367751649,216102.92564258457,1
+87,Mean city output,Designated EIP > Baseline,552291.9624177495,337676.284444716,214615.67797303345,1
+88,Mean city output,Designated EIP > Baseline,745822.6017806387,458314.980293223,287507.6214874157,1
+89,Mean city output,Designated EIP > Baseline,835154.6445783213,415225.11724665517,419929.5273316661,1
+90,Mean city output,Designated EIP > Baseline,364125.4115078537,213319.1484046607,150806.26310319302,1
+91,Mean city output,Designated EIP > Baseline,351479.8075532145,196704.9009433883,154774.9066098262,1
+92,Mean city output,Designated EIP > Baseline,474043.6712819692,209165.4782722781,264878.1930096911,1
+93,Mean city output,Designated EIP > Baseline,474043.6712819692,209055.208868114,264988.4624138552,1
+94,Mean city output,Designated EIP > Baseline,383530.61152628134,202872.99414584792,180657.61738043342,1
+95,Mean city output,Designated EIP > Baseline,299784.7122275983,214352.09113301244,85432.62109458586,1
+96,Mean city output,Designated EIP > Baseline,892091.0768352008,633257.4762490231,258833.60058617766,1
+97,Mean city output,Designated EIP > Baseline,1115684.6206875995,616637.1810313438,499047.43965625577,1
+98,Mean city output,Designated EIP > Baseline,977679.6360620663,616092.2820834916,361587.35397857474,1
+99,Mean city output,Designated EIP > Baseline,542652.3216317596,356381.6666765607,186270.65495519893,1
+100,Mean city output,Designated EIP > Baseline,549278.4261454584,354687.15047758835,194591.27566787,1
+101,Mean city output,Designated EIP > Baseline,549278.4261454584,361984.44044590235,187293.985699556,1
+102,Mean city output,Designated EIP > Baseline,603171.9658789209,333152.69439579395,270019.2714831269,1
+103,Mean city output,Designated EIP > Baseline,604935.4231799188,328242.3465411746,276693.0766387442,1
+104,Mean city output,Designated EIP > Baseline,995201.7168717033,632860.2410270285,362341.47584467474,1
+105,Mean city output,Designated EIP > Baseline,927721.7752117431,606094.7264518269,321627.0487599162,1
+106,Mean city output,Designated EIP > Baseline,1029043.8207179211,625181.5586881866,403862.26202973456,1
+107,Mean city output,Designated EIP > Baseline,1029043.8207179211,611889.2052111798,417154.61550674133,1
+108,Mean city output,Designated EIP > Baseline,934383.5131928343,569279.3635685677,365104.14962426666,1
+109,Mean city output,Designated EIP > Baseline,568385.3609562651,330206.5388379038,238178.8221183613,1
+110,Mean city output,Designated EIP > Baseline,596589.856977587,342283.059479935,254306.797497652,1
+111,Mean city output,Designated EIP > Baseline,608347.1690104814,336804.7036348559,271542.4653756255,1
+112,Mean city output,Designated EIP > Baseline,606272.9663248254,356889.00501121936,249383.96131360607,1
+113,Mean city output,Designated EIP > Baseline,606272.9663248254,356635.8801023861,249637.0862224393,1
+114,Mean city output,Designated EIP > Baseline,562817.1844661311,321215.95247641514,241601.231989716,1
+115,Mean city output,Designated EIP > Baseline,569228.0092475755,336507.66859599727,232720.34065157827,1
+116,Mean city output,Designated EIP > Baseline,1051307.2976432268,567911.3873957151,483395.9102475117,1
+117,Mean city output,Designated EIP > Baseline,1116857.2547036544,592105.7291724576,524751.5255311969,1
+118,Mean city output,Designated EIP > Baseline,1120574.3902870617,603544.0122207602,517030.37806630146,1
+119,Mean city output,Designated EIP > Baseline,932117.6330242998,607798.19485196,324319.4381723397,1
+120,Mean city output,Designated EIP > Baseline,825846.8439095333,492720.79658914683,333126.0473203865,1
+121,Mean city output,Designated EIP > Baseline,860908.979579946,512484.6880086354,348424.2915713106,1
+122,Mean city output,Designated EIP > Baseline,881972.243534243,483731.72278610186,398240.5207481411,1
+123,Mean city output,Designated EIP > Baseline,455353.9996272443,214049.86454780409,241304.13507944022,1
+124,Mean city output,Designated EIP > Baseline,398881.5697889603,209959.28370980622,188922.28607915406,1
+125,Mean city output,Designated EIP > Baseline,327035.9832680697,219670.1907532801,107365.79251478959,1
+126,Mean city output,Designated EIP > Baseline,293894.80456212617,217461.0553712792,76433.74919084698,1
+127,Mean city output,Designated EIP > Baseline,293894.80456212617,226902.37433902718,66992.43022309899,1
+128,Mean city output,Designated EIP > Baseline,967416.5071296949,607040.5985728537,360375.9085568412,1
+129,Mean city output,Designated EIP > Baseline,1064668.3328898791,594844.4664579211,469823.86643195804,1
+130,Mean city output,Designated EIP > Baseline,1047620.4146501549,581161.9180880417,466458.49656211317,1
+131,Mean city output,Designated EIP > Baseline,949384.1882302236,585338.7551890241,364045.43304119946,1
+132,Mean city output,Designated EIP > Baseline,1038410.5498576798,569851.4727988521,468559.0770588276,1
+133,Mean city output,Designated EIP > Baseline,1038410.5498576798,575778.5505557281,462631.9993019516,1
+134,Mean city output,Designated EIP > Baseline,964123.319809797,625513.3963167031,338609.9234930939,1
+135,Mean city output,Designated EIP > Baseline,649005.3056246333,349519.05006110447,299486.25556352886,1
+136,Mean city output,Designated EIP > Baseline,847925.2409725853,476729.2442919475,371195.99668063776,1
+137,Mean city output,Designated EIP > Baseline,469233.53180184204,214076.65803903108,255156.87376281095,1
+138,Mean city output,Designated EIP > Baseline,368696.3391116771,214669.22015662398,154027.1189550531,1
+139,Mean city output,Designated EIP > Baseline,436348.5489538809,216200.1070806288,220148.4418732521,1
+140,Mean city output,Designated EIP > Baseline,436348.5489538809,215494.89791367287,220853.65104020803,1
+141,Mean city output,Designated EIP > Baseline,425007.32138026535,217354.83203530073,207652.48934496462,1
+142,Mean city output,Designated EIP > Baseline,372430.72197365103,211855.15320999263,160575.5687636584,1
+143,Mean city output,Designated EIP > Baseline,308906.8551514462,219120.9921603265,89785.86299111968,1
+144,Mean city output,Designated EIP > Baseline,555808.8963459574,341234.529136591,214574.3672093664,1
+145,Mean city output,Designated EIP > Baseline,555808.8963459574,346429.7890545018,209379.1072914556,1
+146,Mean city output,Designated EIP > Baseline,958098.3963283475,623925.2258400744,334173.17048827314,1
+147,Mean city output,Designated EIP > Baseline,942580.6197922159,640021.698948742,302558.92084347387,1
+148,Mean city output,Designated EIP > Baseline,873432.071385866,637176.1405741422,236255.9308117238,1
+149,Mean city output,Designated EIP > Baseline,1043324.4096587959,618854.1388106428,424470.27084815316,1
+150,Mean city output,Designated EIP > Baseline,1138977.4955446199,587147.3052342985,551830.1903103214,1
+151,Mean city output,Designated EIP > Baseline,1016040.5046236081,619317.005019844,396723.49960376404,1
+152,Mean city output,Designated EIP > Baseline,602330.2234408874,357036.25537432166,245293.96806656575,1
+153,Mean city output,Designated EIP > Baseline,1059054.1661662068,578011.0800730798,481043.086093127,1
+154,Mean city output,Designated EIP > Baseline,882643.4446822461,652903.7627010123,229739.68198123376,1
+155,Mean city output,Designated EIP > Baseline,882643.4446822461,649360.1771378474,233283.26754439867,1
+156,Mean city output,Designated EIP > Baseline,953106.0889537256,644487.6863779466,308618.402575779,1
+157,Mean city output,Designated EIP > Baseline,1151695.3866047575,641533.7440878821,510161.6425168754,1
+158,Mean city output,Designated EIP > Baseline,1028550.8350027977,672269.789941259,356281.0450615387,1
+159,Mean city output,Designated EIP > Baseline,1254626.0864639927,626321.4327363867,628304.653727606,1
+0,Mean city output,Designated EIP > Standard Land,1034338.6682760597,642052.6794114911,392285.9888645685,1
+1,Mean city output,Designated EIP > Standard Land,1032064.6788019413,662635.2311635877,369429.4476383537,1
+2,Mean city output,Designated EIP > Standard Land,977679.6360620663,621590.1303383833,356089.50572368305,1
+3,Mean city output,Designated EIP > Standard Land,542652.3216317596,373186.3767843455,169465.94484741415,1
+4,Mean city output,Designated EIP > Standard Land,549278.4261454584,362564.1336064433,186714.29253901506,1
+5,Mean city output,Designated EIP > Standard Land,549278.4261454584,366968.79988228844,182309.62626316992,1
+6,Mean city output,Designated EIP > Standard Land,603113.3059378483,376464.2372475051,226649.06869034318,1
+7,Mean city output,Designated EIP > Standard Land,595770.1168476423,396459.85199064587,199310.26485699648,1
+8,Mean city output,Designated EIP > Standard Land,785813.2016950329,523081.7118090289,262731.489886004,1
+9,Mean city output,Designated EIP > Standard Land,338949.46459591266,236113.74250050104,102835.72209541162,1
+10,Mean city output,Designated EIP > Standard Land,336506.18037462106,241755.6444970557,94750.53587756536,1
+11,Mean city output,Designated EIP > Standard Land,455353.9996272443,234760.35047990232,220593.649147342,1
+12,Mean city output,Designated EIP > Standard Land,455353.9996272443,243024.48419674742,212329.5154304969,1
+13,Mean city output,Designated EIP > Standard Land,398881.5697889603,210034.86210739706,188846.70768156322,1
+14,Mean city output,Designated EIP > Standard Land,377185.1022137311,218252.54702164893,158932.55519208216,1
+15,Mean city output,Designated EIP > Standard Land,449871.8970386431,223823.93495908394,226047.96207955913,1
+16,Mean city output,Designated EIP > Standard Land,964685.4144388366,629162.6165395116,335522.797899325,1
+17,Mean city output,Designated EIP > Standard Land,993246.0775530108,623528.5579465908,369717.51960641996,1
+18,Mean city output,Designated EIP > Standard Land,1162737.9072788856,619063.5280630179,543674.3792158677,1
+19,Mean city output,Designated EIP > Standard Land,1075726.8539600624,624604.3940018016,451122.45995826076,1
+20,Mean city output,Designated EIP > Standard Land,1036267.7058269255,645089.4317764365,391178.27405048895,1
+21,Mean city output,Designated EIP > Standard Land,999245.5965020042,644952.8748444787,354292.7216575255,1
+22,Mean city output,Designated EIP > Standard Land,999245.5965020042,678548.9158211076,320696.6806808966,1
+23,Mean city output,Designated EIP > Standard Land,540389.7398895326,373579.0239421159,166810.71594741667,1
+24,Mean city output,Designated EIP > Standard Land,404581.2083841629,242961.2410361166,161619.9673480463,1
+25,Mean city output,Designated EIP > Standard Land,404581.2083841629,250496.6518562544,154084.5565279085,1
+26,Mean city output,Designated EIP > Standard Land,375078.2694580947,235031.62735420847,140046.64210388626,1
+27,Mean city output,Designated EIP > Standard Land,321215.1138843542,247377.08163122428,73838.0322531299,1
+28,Mean city output,Designated EIP > Standard Land,274427.845469686,234042.57363640712,40385.27183327891,1
+29,Mean city output,Designated EIP > Standard Land,753134.1342972558,512775.2543410923,240358.87995616347,1
+30,Mean city output,Designated EIP > Standard Land,869133.9829762767,512869.93881839514,356264.0441578815,1
+31,Mean city output,Designated EIP > Standard Land,830793.8206124955,496610.18532487226,334183.63528762327,1
+32,Mean city output,Designated EIP > Standard Land,782035.6104467332,485604.61697473266,296430.9934720005,1
+33,Mean city output,Designated EIP > Standard Land,777901.7460697129,508331.5315905951,269570.2144791178,1
+34,Mean city output,Designated EIP > Standard Land,787818.3033003961,527275.3794259671,260542.92387442896,1
+35,Mean city output,Designated EIP > Standard Land,322797.26787312864,239434.5854058462,83362.68246728243,1
+36,Mean city output,Designated EIP > Standard Land,385714.7742884541,235992.74087345312,149722.03341500097,1
+37,Mean city output,Designated EIP > Standard Land,355779.73102689337,240219.5049037464,115560.22612314697,1
+38,Mean city output,Designated EIP > Standard Land,428396.396225094,233388.63706487362,195007.75916022036,1
+39,Mean city output,Designated EIP > Standard Land,428396.396225094,227298.6894050134,201097.70682008058,1
+40,Mean city output,Designated EIP > Standard Land,1066484.731571793,581208.4540018752,485276.27756991785,1
+41,Mean city output,Designated EIP > Standard Land,984225.3407195419,568823.6458304155,415401.69488912635,1
+42,Mean city output,Designated EIP > Standard Land,984225.3407195419,559496.1898309155,424729.15088862635,1
+43,Mean city output,Designated EIP > Standard Land,1017165.7218869834,577027.4711240779,440138.25076290546,1
+44,Mean city output,Designated EIP > Standard Land,938942.6561923217,567612.1692276357,371330.48696468596,1
+45,Mean city output,Designated EIP > Standard Land,553788.547576288,326811.1889207839,226977.35865550407,1
+46,Mean city output,Designated EIP > Standard Land,573399.626650038,371486.1448322787,201913.48181775922,1
+47,Mean city output,Designated EIP > Standard Land,527117.4259763072,378523.3294838876,148594.09649241966,1
+48,Mean city output,Designated EIP > Standard Land,1072184.2322593904,659076.967998901,413107.2642604894,1
+49,Mean city output,Designated EIP > Standard Land,1038131.1273067843,638806.5970093566,399324.5302974277,1
+50,Mean city output,Designated EIP > Standard Land,1038131.1273067843,645872.5992416983,392258.528065086,1
+51,Mean city output,Designated EIP > Standard Land,1097964.8971094512,622169.1754005589,475795.7217088924,1
+52,Mean city output,Designated EIP > Standard Land,1019003.7390313816,648712.4647930034,370291.27423837816,1
+53,Mean city output,Designated EIP > Standard Land,1027706.1672968257,658174.3574334026,369531.8098634231,1
+54,Mean city output,Designated EIP > Standard Land,1020379.4738388518,646038.8778594929,374340.5959793589,1
+55,Mean city output,Designated EIP > Standard Land,589962.8806860187,377944.0715055719,212018.80918044684,1
+56,Mean city output,Designated EIP > Standard Land,892754.4774258563,489409.6723511039,403344.80507475237,1
+57,Mean city output,Designated EIP > Standard Land,424536.3195474384,235018.5465097948,189517.7730376436,1
+58,Mean city output,Designated EIP > Standard Land,375078.2694580947,233194.2861121009,141883.98334599382,1
+59,Mean city output,Designated EIP > Standard Land,375078.2694580947,235057.81933317604,140020.4501249187,1
+60,Mean city output,Designated EIP > Standard Land,362005.719492418,227363.47282312013,134642.24666929786,1
+61,Mean city output,Designated EIP > Standard Land,274427.845469686,238690.25809052633,35737.5873791597,1
+62,Mean city output,Designated EIP > Standard Land,263795.18791949656,235086.05671739235,28709.13120210421,1
+63,Mean city output,Designated EIP > Standard Land,280691.54232796363,249360.0918576576,31331.450470306037,1
+64,Mean city output,Designated EIP > Standard Land,422418.7063552925,218493.16291821204,203925.5434370805,1
+65,Mean city output,Designated EIP > Standard Land,448937.663845959,224057.31408426672,224880.34976169228,1
+66,Mean city output,Designated EIP > Standard Land,382991.0704079679,236006.30532595012,146984.76508201778,1
+67,Mean city output,Designated EIP > Standard Land,382991.0704079679,224648.97869569645,158342.09171227145,1
+68,Mean city output,Designated EIP > Standard Land,414624.0999272062,237443.0025344643,177181.09739274188,1
+69,Mean city output,Designated EIP > Standard Land,349606.45137624897,235679.641275774,113926.81010047498,1
+70,Mean city output,Designated EIP > Standard Land,291782.6748396192,245978.85422375583,45803.82061586337,1
+71,Mean city output,Designated EIP > Standard Land,779085.068508723,502945.2887303083,276139.77977841476,1
+72,Mean city output,Designated EIP > Standard Land,933558.2242308899,505663.71983672585,427894.5043941641,1
+73,Mean city output,Designated EIP > Standard Land,950914.8035278665,508397.7597706102,442517.0437572563,1
+74,Mean city output,Designated EIP > Standard Land,820534.6003436691,521973.7346412465,298560.86570242257,1
+75,Mean city output,Designated EIP > Standard Land,734270.6043181712,502804.3278872892,231466.27643088193,1
+76,Mean city output,Designated EIP > Standard Land,734270.6043181712,512507.50206336856,221763.1022548026,1
+77,Mean city output,Designated EIP > Standard Land,272194.09535402444,248096.9392120502,24097.156141974236,1
+78,Mean city output,Designated EIP > Standard Land,282209.5801775599,243209.9076664194,38999.672511140525,1
+79,Mean city output,Designated EIP > Standard Land,375304.24518898607,224856.26921249958,150447.9759764865,1
+80,Mean city output,Designated EIP > Standard Land,1117413.0365059737,651847.4232407396,465565.61326523405,1
+81,Mean city output,Designated EIP > Standard Land,1101350.463277464,641013.0149972823,460337.44828018174,1
+82,Mean city output,Designated EIP > Standard Land,1006914.5950928271,643111.2222268505,363803.37286597665,1
+83,Mean city output,Designated EIP > Standard Land,954723.9144403785,622168.7397748689,332555.1746655096,1
+84,Mean city output,Designated EIP > Standard Land,603745.1242703627,373389.278926441,230355.84534392168,1
+85,Mean city output,Designated EIP > Standard Land,562564.5218189663,371428.03803035186,191136.4837886144,1
+86,Mean city output,Designated EIP > Standard Land,552291.9624177495,394868.96843654005,157422.9939812094,1
+87,Mean city output,Designated EIP > Standard Land,552291.9624177495,389144.1966220069,163147.76579574257,1
+88,Mean city output,Designated EIP > Standard Land,745822.6017806387,475544.6525173962,270277.9492632425,1
+89,Mean city output,Designated EIP > Standard Land,835154.6445783213,473956.3571071241,361198.28747119714,1
+90,Mean city output,Designated EIP > Standard Land,364125.4115078537,231260.96335068517,132864.44815716855,1
+91,Mean city output,Designated EIP > Standard Land,351479.8075532145,233321.28571467684,118158.52183853765,1
+92,Mean city output,Designated EIP > Standard Land,474043.6712819692,233510.39310864598,240533.2781733232,1
+93,Mean city output,Designated EIP > Standard Land,474043.6712819692,240211.68250162722,233831.98878034196,1
+94,Mean city output,Designated EIP > Standard Land,383530.61152628134,237303.38457056595,146227.2269557154,1
+95,Mean city output,Designated EIP > Standard Land,299784.7122275983,228622.32798297034,71162.38424462796,1
+96,Mean city output,Designated EIP > Standard Land,892091.0768352008,652616.3084594326,239474.7683757682,1
+97,Mean city output,Designated EIP > Standard Land,1115684.6206875995,648579.1990458679,467105.42164173163,1
+98,Mean city output,Designated EIP > Standard Land,977679.6360620663,618008.9183080171,359670.7177540492,1
+99,Mean city output,Designated EIP > Standard Land,542652.3216317596,370118.33585658553,172533.9857751741,1
+100,Mean city output,Designated EIP > Standard Land,549278.4261454584,366576.5996976036,182701.82644785475,1
+101,Mean city output,Designated EIP > Standard Land,549278.4261454584,369934.9799829035,179343.44616255484,1
+102,Mean city output,Designated EIP > Standard Land,603171.9658789209,370708.9348986364,232463.03098028444,1
+103,Mean city output,Designated EIP > Standard Land,604935.4231799188,374887.3112952035,230048.11188471527,1
+104,Mean city output,Designated EIP > Standard Land,995201.7168717033,657521.8716993865,337679.84517231677,1
+105,Mean city output,Designated EIP > Standard Land,927721.7752117431,658603.0269928693,269118.74821887375,1
+106,Mean city output,Designated EIP > Standard Land,1029043.8207179211,620782.506309402,408261.3144085192,1
+107,Mean city output,Designated EIP > Standard Land,1029043.8207179211,651971.8043231117,377072.01639480947,1
+108,Mean city output,Designated EIP > Standard Land,934383.5131928343,652877.4431973826,281506.0699954517,1
+109,Mean city output,Designated EIP > Standard Land,568385.3609562651,370865.1724243105,197520.1885319546,1
+110,Mean city output,Designated EIP > Standard Land,596589.856977587,368269.5174090685,228320.3395685185,1
+111,Mean city output,Designated EIP > Standard Land,608347.1690104814,384568.7527623565,223778.41624812497,1
+112,Mean city output,Designated EIP > Standard Land,606272.9663248254,381964.6533264344,224308.31299839105,1
+113,Mean city output,Designated EIP > Standard Land,606272.9663248254,376678.24123925756,229594.72508556786,1
+114,Mean city output,Designated EIP > Standard Land,562817.1844661311,365813.0442505287,197004.14021560247,1
+115,Mean city output,Designated EIP > Standard Land,569228.0092475755,357888.6561528087,211339.35309476685,1
+116,Mean city output,Designated EIP > Standard Land,1051307.2976432268,560828.614677931,490478.68296529585,1
+117,Mean city output,Designated EIP > Standard Land,1116857.2547036544,635149.5423040768,481707.7123995776,1
+118,Mean city output,Designated EIP > Standard Land,1120574.3902870617,640576.9302731339,479997.4600139278,1
+119,Mean city output,Designated EIP > Standard Land,932117.6330242998,619370.378300743,312747.2547235568,1
+120,Mean city output,Designated EIP > Standard Land,825846.8439095333,486765.9874163669,339080.8564931665,1
+121,Mean city output,Designated EIP > Standard Land,860908.979579946,502441.4347838837,358467.54479606234,1
+122,Mean city output,Designated EIP > Standard Land,881972.243534243,493270.4358476157,388701.80768662726,1
+123,Mean city output,Designated EIP > Standard Land,455353.9996272443,234760.35047990232,220593.649147342,1
+124,Mean city output,Designated EIP > Standard Land,398881.5697889603,215780.41529628058,183101.1544926797,1
+125,Mean city output,Designated EIP > Standard Land,327035.9832680697,255441.50155702484,71594.48171104485,1
+126,Mean city output,Designated EIP > Standard Land,293894.80456212617,247089.81238714146,46804.99217498471,1
+127,Mean city output,Designated EIP > Standard Land,293894.80456212617,243444.40182234807,50450.4027397781,1
+128,Mean city output,Designated EIP > Standard Land,967416.5071296949,634784.0804723192,332632.42665737576,1
+129,Mean city output,Designated EIP > Standard Land,1064668.3328898791,576081.6558498064,488586.67704007274,1
+130,Mean city output,Designated EIP > Standard Land,1047620.4146501549,580305.3850748079,467315.02957534697,1
+131,Mean city output,Designated EIP > Standard Land,949384.1882302236,568284.5574982038,381099.6307320198,1
+132,Mean city output,Designated EIP > Standard Land,1038410.5498576798,560226.3741879493,478184.1756697304,1
+133,Mean city output,Designated EIP > Standard Land,1038410.5498576798,581547.6166391412,456862.9332185385,1
+134,Mean city output,Designated EIP > Standard Land,964123.319809797,629474.7688883931,334648.5509214039,1
+135,Mean city output,Designated EIP > Standard Land,649005.3056246333,344412.1269935198,304593.17863111355,1
+136,Mean city output,Designated EIP > Standard Land,847925.2409725853,508248.350710997,339676.89026158827,1
+137,Mean city output,Designated EIP > Standard Land,469233.53180184204,237506.91303739086,231726.61876445118,1
+138,Mean city output,Designated EIP > Standard Land,368696.3391116771,240255.50699163304,128440.83212004404,1
+139,Mean city output,Designated EIP > Standard Land,436348.5489538809,234590.731086623,201757.8178672579,1
+140,Mean city output,Designated EIP > Standard Land,436348.5489538809,239713.93170816154,196634.61724571936,1
+141,Mean city output,Designated EIP > Standard Land,425007.32138026535,235763.16825895305,189244.1531213123,1
+142,Mean city output,Designated EIP > Standard Land,372430.72197365103,241837.28241176702,130593.439561884,1
+143,Mean city output,Designated EIP > Standard Land,308906.8551514462,222922.3476013642,85984.507550082,1
+144,Mean city output,Designated EIP > Standard Land,555808.8963459574,371585.52921030077,184223.36713565665,1
+145,Mean city output,Designated EIP > Standard Land,555808.8963459574,389592.3937963499,166216.50254960754,1
+146,Mean city output,Designated EIP > Standard Land,958098.3963283475,636735.6714024411,321362.7249259064,1
+147,Mean city output,Designated EIP > Standard Land,942580.6197922159,640971.4818097256,301609.13798249024,1
+148,Mean city output,Designated EIP > Standard Land,873432.071385866,657373.3491697615,216058.7222161045,1
+149,Mean city output,Designated EIP > Standard Land,1043324.4096587959,650101.1422536663,393223.2674051296,1
+150,Mean city output,Designated EIP > Standard Land,1138977.4955446199,652376.264384763,486601.2311598569,1
+151,Mean city output,Designated EIP > Standard Land,1016040.5046236081,624401.5790898956,391638.9255337125,1
+152,Mean city output,Designated EIP > Standard Land,602330.2234408874,363804.4982602895,238525.72518059792,1
+153,Mean city output,Designated EIP > Standard Land,1059054.1661662068,624089.8579868788,434964.308179328,1
+154,Mean city output,Designated EIP > Standard Land,882643.4446822461,651985.4210179476,230658.02366429847,1
+155,Mean city output,Designated EIP > Standard Land,882643.4446822461,660175.0085485721,222468.436133674,1
+156,Mean city output,Designated EIP > Standard Land,953106.0889537256,646406.473215466,306699.6157382596,1
+157,Mean city output,Designated EIP > Standard Land,1151695.3866047575,646422.3584329875,505273.02817177004,1
+158,Mean city output,Designated EIP > Standard Land,1028550.8350027977,648686.0986756416,379864.7363271561,1
+159,Mean city output,Designated EIP > Standard Land,1254626.0864639927,652561.3417053312,602064.7447586615,1

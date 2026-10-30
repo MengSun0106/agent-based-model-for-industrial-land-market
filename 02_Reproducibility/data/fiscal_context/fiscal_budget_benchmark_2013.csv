@@ -1,0 +1,2 @@
+Indicator,Unit,National_N,National_P25,National_Median,National_P75,Zhejiang_N,Zhejiang_P25,Zhejiang_Median,Zhejiang_P75,Zhejiang_median_ECDF_percentile,Zhejiang_median_midrank_percentile,recomputed_national_to_zhejiang_ratio,actual_simulation_multiplier,multiplier_minus_source_ratio
+Local general public budget expenditure,CNY billion,285,16.03186,22.42213,31.73846,11,19.260135,31.21077,38.349325,73.68421052631578,73.50877192982456,0.7184100232067328,0.7184361775796934,2.6154372960607297e-05

@@ -1,0 +1,34 @@
+{
+  "source": "Parcel-level land-conveyance records retrieved from China Land Market (中国土地市场网), 2012–2024; source file is not included in this release.",
+  "source_url": "https://www.landchina.com/#/",
+  "access_status": "Publicly accessible data; processed city-year summaries are included in this release, while the original parcel-level source file is not redistributed.",
+  "source_sha256": "e2f5eecc4faf7ab6691971185d2feaad068c8384a27b05db3c8a99eb442549ae",
+  "source_description": "Author-provided parcel-level land-conveyance records",
+  "years": [
+    2013,
+    2024
+  ],
+  "province": "Zhejiang",
+  "cities": 11,
+  "city_year_observations": 132,
+  "valid_records": 38056,
+  "duplicates_removed": 659,
+  "industrial_categories": [
+    "一类工业用地",
+    "三类工业用地",
+    "二类工业用地",
+    "工业用地"
+  ],
+  "unit": "CNY 10,000 per hectare, numerically equal to CNY per square metre",
+  "price_basis": "Nominal transaction prices; not deflated or quality-adjusted",
+  "main_statistic": "Arithmetic mean of parcel unit prices within each city-year, then equal-weight mean across the same 11 cities each year",
+  "unit_price_definition": "transaction price (CNY 10,000) / parcel area (hectares)",
+  "first_mean": 460.54488560532883,
+  "last_mean": 828.8104634965835,
+  "percentage_increase": 79.96301541970561,
+  "inference": "Descriptive time trend, not an identified effect of either policy",
+  "cooperation_evidence": {
+    "Li_2025": "Section 5.3 and Figure 4: post-pairing increases in intercounty investment persist beyond initial designation; this is not a survival estimate for individual enclave ties.",
+    "Zhang_2023": "Case description p.1734: park jointly established August 2013; p.1737 reports 2020 industrial output. Continued park activity does not measure the survival of all provincial partnerships."
+  }
+}

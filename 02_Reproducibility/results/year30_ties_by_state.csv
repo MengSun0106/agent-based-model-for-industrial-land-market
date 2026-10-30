@@ -1,0 +1,19 @@
+policy,tc_state,mean_active_ties
+Baseline,0.05,0.0
+Baseline,0.1,0.0
+Baseline,0.15,0.0
+Designated EIP,0.05,16.366666666666667
+Designated EIP,0.1,0.0
+Designated EIP,0.15,5.466666666666667
+SL,0.05,0.0
+SL,0.1,0.0
+SL,0.15,0.0
+SL + Designated EIP,0.05,15.466666666666667
+SL + Designated EIP,0.1,0.0
+SL + Designated EIP,0.15,5.5
+SL + Voluntary EIP,0.05,5.633333333333334
+SL + Voluntary EIP,0.1,1.9666666666666666
+SL + Voluntary EIP,0.15,0.0
+Voluntary EIP,0.05,0.5333333333333333
+Voluntary EIP,0.1,0.2
+Voluntary EIP,0.15,0.0

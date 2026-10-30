@@ -1,0 +1,5 @@
+﻿outcome,comparison,supporting_combinations,equal_combinations,opposite_combinations,total_combinations,support_share_percent
+Active EIP ties,Designated EIP > Voluntary EIP,160,0,0,160,100.0
+Active EIP ties,SL + Designated EIP > SL + Voluntary EIP,160,0,0,160,100.0
+Mean city output,Designated EIP > Baseline,160,0,0,160,100.0
+Mean city output,Designated EIP > Standard Land,160,0,0,160,100.0

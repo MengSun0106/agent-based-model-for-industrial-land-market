@@ -1,0 +1,31 @@
+scenario,metric,value,ci_low,ci_high
+Voluntary EIP,active_ties_tc_0.05,0.53333333,,
+Voluntary EIP,active_ties_tc_0.10,0.20000000,,
+Voluntary EIP,active_ties_tc_0.15,0.00000000,,
+Designated EIP,active_ties_tc_0.05,16.36666667,,
+Designated EIP,active_ties_tc_0.10,0.00000000,,
+Designated EIP,active_ties_tc_0.15,5.46666667,,
+SL + Voluntary EIP,active_ties_tc_0.05,5.63333333,,
+SL + Voluntary EIP,active_ties_tc_0.10,1.96666667,,
+SL + Voluntary EIP,active_ties_tc_0.15,0.00000000,,
+SL + Designated EIP,active_ties_tc_0.05,15.46666667,,
+SL + Designated EIP,active_ties_tc_0.10,0.00000000,,
+SL + Designated EIP,active_ties_tc_0.15,5.50000000,,
+Baseline,mean_land_price,717.26341464,709.18164165,725.34518763
+SL,mean_land_price,734.41011147,726.10878442,742.71143852
+Voluntary EIP,mean_land_price,713.52943873,704.85417631,722.20470115
+Designated EIP,mean_land_price,752.39691329,741.70629933,763.08752725
+SL + Voluntary EIP,mean_land_price,713.71850969,700.97752368,726.45949570
+SL + Designated EIP,mean_land_price,761.71916942,750.02973661,773.40860224
+Baseline,city_output,495226.82290514,,
+Baseline,output_gini,0.39850749,,
+SL,city_output,529849.73364001,,
+SL,output_gini,0.39404045,,
+Voluntary EIP,city_output,412189.87779881,,
+Voluntary EIP,output_gini,0.39165566,,
+Designated EIP,city_output,834770.82700521,,
+Designated EIP,output_gini,0.39651695,,
+SL + Voluntary EIP,city_output,478870.29042608,,
+SL + Voluntary EIP,output_gini,0.42819179,,
+SL + Designated EIP,city_output,859519.14848258,,
+SL + Designated EIP,output_gini,0.39656954,,

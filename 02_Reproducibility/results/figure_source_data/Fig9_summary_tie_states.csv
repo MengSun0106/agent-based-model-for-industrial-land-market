@@ -1,0 +1,541 @@
+policy,seed,tc_state,active_ties
+Baseline,1,0.05,0
+Baseline,2,0.05,0
+Baseline,3,0.05,0
+Baseline,4,0.05,0
+Baseline,5,0.05,0
+Baseline,6,0.05,0
+Baseline,7,0.05,0
+Baseline,8,0.05,0
+Baseline,9,0.05,0
+Baseline,10,0.05,0
+Baseline,11,0.05,0
+Baseline,12,0.05,0
+Baseline,13,0.05,0
+Baseline,14,0.05,0
+Baseline,15,0.05,0
+Baseline,16,0.05,0
+Baseline,17,0.05,0
+Baseline,18,0.05,0
+Baseline,19,0.05,0
+Baseline,20,0.05,0
+Baseline,21,0.05,0
+Baseline,22,0.05,0
+Baseline,23,0.05,0
+Baseline,24,0.05,0
+Baseline,25,0.05,0
+Baseline,26,0.05,0
+Baseline,27,0.05,0
+Baseline,28,0.05,0
+Baseline,29,0.05,0
+Baseline,30,0.05,0
+Baseline,1,0.1,0
+Baseline,2,0.1,0
+Baseline,3,0.1,0
+Baseline,4,0.1,0
+Baseline,5,0.1,0
+Baseline,6,0.1,0
+Baseline,7,0.1,0
+Baseline,8,0.1,0
+Baseline,9,0.1,0
+Baseline,10,0.1,0
+Baseline,11,0.1,0
+Baseline,12,0.1,0
+Baseline,13,0.1,0
+Baseline,14,0.1,0
+Baseline,15,0.1,0
+Baseline,16,0.1,0
+Baseline,17,0.1,0
+Baseline,18,0.1,0
+Baseline,19,0.1,0
+Baseline,20,0.1,0
+Baseline,21,0.1,0
+Baseline,22,0.1,0
+Baseline,23,0.1,0
+Baseline,24,0.1,0
+Baseline,25,0.1,0
+Baseline,26,0.1,0
+Baseline,27,0.1,0
+Baseline,28,0.1,0
+Baseline,29,0.1,0
+Baseline,30,0.1,0
+Baseline,1,0.15,0
+Baseline,2,0.15,0
+Baseline,3,0.15,0
+Baseline,4,0.15,0
+Baseline,5,0.15,0
+Baseline,6,0.15,0
+Baseline,7,0.15,0
+Baseline,8,0.15,0
+Baseline,9,0.15,0
+Baseline,10,0.15,0
+Baseline,11,0.15,0
+Baseline,12,0.15,0
+Baseline,13,0.15,0
+Baseline,14,0.15,0
+Baseline,15,0.15,0
+Baseline,16,0.15,0
+Baseline,17,0.15,0
+Baseline,18,0.15,0
+Baseline,19,0.15,0
+Baseline,20,0.15,0
+Baseline,21,0.15,0
+Baseline,22,0.15,0
+Baseline,23,0.15,0
+Baseline,24,0.15,0
+Baseline,25,0.15,0
+Baseline,26,0.15,0
+Baseline,27,0.15,0
+Baseline,28,0.15,0
+Baseline,29,0.15,0
+Baseline,30,0.15,0
+SL,1,0.05,0
+SL,2,0.05,0
+SL,3,0.05,0
+SL,4,0.05,0
+SL,5,0.05,0
+SL,6,0.05,0
+SL,7,0.05,0
+SL,8,0.05,0
+SL,9,0.05,0
+SL,10,0.05,0
+SL,11,0.05,0
+SL,12,0.05,0
+SL,13,0.05,0
+SL,14,0.05,0
+SL,15,0.05,0
+SL,16,0.05,0
+SL,17,0.05,0
+SL,18,0.05,0
+SL,19,0.05,0
+SL,20,0.05,0
+SL,21,0.05,0
+SL,22,0.05,0
+SL,23,0.05,0
+SL,24,0.05,0
+SL,25,0.05,0
+SL,26,0.05,0
+SL,27,0.05,0
+SL,28,0.05,0
+SL,29,0.05,0
+SL,30,0.05,0
+SL,1,0.1,0
+SL,2,0.1,0
+SL,3,0.1,0
+SL,4,0.1,0
+SL,5,0.1,0
+SL,6,0.1,0
+SL,7,0.1,0
+SL,8,0.1,0
+SL,9,0.1,0
+SL,10,0.1,0
+SL,11,0.1,0
+SL,12,0.1,0
+SL,13,0.1,0
+SL,14,0.1,0
+SL,15,0.1,0
+SL,16,0.1,0
+SL,17,0.1,0
+SL,18,0.1,0
+SL,19,0.1,0
+SL,20,0.1,0
+SL,21,0.1,0
+SL,22,0.1,0
+SL,23,0.1,0
+SL,24,0.1,0
+SL,25,0.1,0
+SL,26,0.1,0
+SL,27,0.1,0
+SL,28,0.1,0
+SL,29,0.1,0
+SL,30,0.1,0
+SL,1,0.15,0
+SL,2,0.15,0
+SL,3,0.15,0
+SL,4,0.15,0
+SL,5,0.15,0
+SL,6,0.15,0
+SL,7,0.15,0
+SL,8,0.15,0
+SL,9,0.15,0
+SL,10,0.15,0
+SL,11,0.15,0
+SL,12,0.15,0
+SL,13,0.15,0
+SL,14,0.15,0
+SL,15,0.15,0
+SL,16,0.15,0
+SL,17,0.15,0
+SL,18,0.15,0
+SL,19,0.15,0
+SL,20,0.15,0
+SL,21,0.15,0
+SL,22,0.15,0
+SL,23,0.15,0
+SL,24,0.15,0
+SL,25,0.15,0
+SL,26,0.15,0
+SL,27,0.15,0
+SL,28,0.15,0
+SL,29,0.15,0
+SL,30,0.15,0
+Voluntary EIP,1,0.05,0
+Voluntary EIP,2,0.05,0
+Voluntary EIP,3,0.05,0
+Voluntary EIP,4,0.05,0
+Voluntary EIP,5,0.05,0
+Voluntary EIP,6,0.05,0
+Voluntary EIP,7,0.05,3
+Voluntary EIP,8,0.05,0
+Voluntary EIP,9,0.05,0
+Voluntary EIP,10,0.05,0
+Voluntary EIP,11,0.05,0
+Voluntary EIP,12,0.05,3
+Voluntary EIP,13,0.05,0
+Voluntary EIP,14,0.05,0
+Voluntary EIP,15,0.05,0
+Voluntary EIP,16,0.05,0
+Voluntary EIP,17,0.05,0
+Voluntary EIP,18,0.05,0
+Voluntary EIP,19,0.05,0
+Voluntary EIP,20,0.05,2
+Voluntary EIP,21,0.05,0
+Voluntary EIP,22,0.05,0
+Voluntary EIP,23,0.05,3
+Voluntary EIP,24,0.05,0
+Voluntary EIP,25,0.05,0
+Voluntary EIP,26,0.05,0
+Voluntary EIP,27,0.05,2
+Voluntary EIP,28,0.05,0
+Voluntary EIP,29,0.05,3
+Voluntary EIP,30,0.05,0
+Voluntary EIP,1,0.1,0
+Voluntary EIP,2,0.1,0
+Voluntary EIP,3,0.1,0
+Voluntary EIP,4,0.1,0
+Voluntary EIP,5,0.1,0
+Voluntary EIP,6,0.1,0
+Voluntary EIP,7,0.1,1
+Voluntary EIP,8,0.1,0
+Voluntary EIP,9,0.1,0
+Voluntary EIP,10,0.1,0
+Voluntary EIP,11,0.1,0
+Voluntary EIP,12,0.1,1
+Voluntary EIP,13,0.1,0
+Voluntary EIP,14,0.1,0
+Voluntary EIP,15,0.1,0
+Voluntary EIP,16,0.1,0
+Voluntary EIP,17,0.1,0
+Voluntary EIP,18,0.1,0
+Voluntary EIP,19,0.1,0
+Voluntary EIP,20,0.1,1
+Voluntary EIP,21,0.1,0
+Voluntary EIP,22,0.1,0
+Voluntary EIP,23,0.1,1
+Voluntary EIP,24,0.1,0
+Voluntary EIP,25,0.1,0
+Voluntary EIP,26,0.1,0
+Voluntary EIP,27,0.1,1
+Voluntary EIP,28,0.1,0
+Voluntary EIP,29,0.1,1
+Voluntary EIP,30,0.1,0
+Voluntary EIP,1,0.15,0
+Voluntary EIP,2,0.15,0
+Voluntary EIP,3,0.15,0
+Voluntary EIP,4,0.15,0
+Voluntary EIP,5,0.15,0
+Voluntary EIP,6,0.15,0
+Voluntary EIP,7,0.15,0
+Voluntary EIP,8,0.15,0
+Voluntary EIP,9,0.15,0
+Voluntary EIP,10,0.15,0
+Voluntary EIP,11,0.15,0
+Voluntary EIP,12,0.15,0
+Voluntary EIP,13,0.15,0
+Voluntary EIP,14,0.15,0
+Voluntary EIP,15,0.15,0
+Voluntary EIP,16,0.15,0
+Voluntary EIP,17,0.15,0
+Voluntary EIP,18,0.15,0
+Voluntary EIP,19,0.15,0
+Voluntary EIP,20,0.15,0
+Voluntary EIP,21,0.15,0
+Voluntary EIP,22,0.15,0
+Voluntary EIP,23,0.15,0
+Voluntary EIP,24,0.15,0
+Voluntary EIP,25,0.15,0
+Voluntary EIP,26,0.15,0
+Voluntary EIP,27,0.15,0
+Voluntary EIP,28,0.15,0
+Voluntary EIP,29,0.15,0
+Voluntary EIP,30,0.15,0
+Designated EIP,1,0.05,16
+Designated EIP,2,0.05,18
+Designated EIP,3,0.05,14
+Designated EIP,4,0.05,18
+Designated EIP,5,0.05,15
+Designated EIP,6,0.05,16
+Designated EIP,7,0.05,17
+Designated EIP,8,0.05,17
+Designated EIP,9,0.05,15
+Designated EIP,10,0.05,17
+Designated EIP,11,0.05,18
+Designated EIP,12,0.05,11
+Designated EIP,13,0.05,17
+Designated EIP,14,0.05,15
+Designated EIP,15,0.05,18
+Designated EIP,16,0.05,19
+Designated EIP,17,0.05,13
+Designated EIP,18,0.05,16
+Designated EIP,19,0.05,18
+Designated EIP,20,0.05,18
+Designated EIP,21,0.05,16
+Designated EIP,22,0.05,15
+Designated EIP,23,0.05,15
+Designated EIP,24,0.05,18
+Designated EIP,25,0.05,19
+Designated EIP,26,0.05,14
+Designated EIP,27,0.05,15
+Designated EIP,28,0.05,16
+Designated EIP,29,0.05,19
+Designated EIP,30,0.05,18
+Designated EIP,1,0.1,0
+Designated EIP,2,0.1,0
+Designated EIP,3,0.1,0
+Designated EIP,4,0.1,0
+Designated EIP,5,0.1,0
+Designated EIP,6,0.1,0
+Designated EIP,7,0.1,0
+Designated EIP,8,0.1,0
+Designated EIP,9,0.1,0
+Designated EIP,10,0.1,0
+Designated EIP,11,0.1,0
+Designated EIP,12,0.1,0
+Designated EIP,13,0.1,0
+Designated EIP,14,0.1,0
+Designated EIP,15,0.1,0
+Designated EIP,16,0.1,0
+Designated EIP,17,0.1,0
+Designated EIP,18,0.1,0
+Designated EIP,19,0.1,0
+Designated EIP,20,0.1,0
+Designated EIP,21,0.1,0
+Designated EIP,22,0.1,0
+Designated EIP,23,0.1,0
+Designated EIP,24,0.1,0
+Designated EIP,25,0.1,0
+Designated EIP,26,0.1,0
+Designated EIP,27,0.1,0
+Designated EIP,28,0.1,0
+Designated EIP,29,0.1,0
+Designated EIP,30,0.1,0
+Designated EIP,1,0.15,5
+Designated EIP,2,0.15,6
+Designated EIP,3,0.15,7
+Designated EIP,4,0.15,6
+Designated EIP,5,0.15,5
+Designated EIP,6,0.15,7
+Designated EIP,7,0.15,6
+Designated EIP,8,0.15,5
+Designated EIP,9,0.15,6
+Designated EIP,10,0.15,6
+Designated EIP,11,0.15,3
+Designated EIP,12,0.15,5
+Designated EIP,13,0.15,6
+Designated EIP,14,0.15,4
+Designated EIP,15,0.15,7
+Designated EIP,16,0.15,4
+Designated EIP,17,0.15,5
+Designated EIP,18,0.15,6
+Designated EIP,19,0.15,5
+Designated EIP,20,0.15,7
+Designated EIP,21,0.15,4
+Designated EIP,22,0.15,6
+Designated EIP,23,0.15,5
+Designated EIP,24,0.15,5
+Designated EIP,25,0.15,7
+Designated EIP,26,0.15,6
+Designated EIP,27,0.15,3
+Designated EIP,28,0.15,6
+Designated EIP,29,0.15,4
+Designated EIP,30,0.15,7
+SL + Voluntary EIP,1,0.05,6
+SL + Voluntary EIP,2,0.05,10
+SL + Voluntary EIP,3,0.05,3
+SL + Voluntary EIP,4,0.05,9
+SL + Voluntary EIP,5,0.05,8
+SL + Voluntary EIP,6,0.05,9
+SL + Voluntary EIP,7,0.05,6
+SL + Voluntary EIP,8,0.05,8
+SL + Voluntary EIP,9,0.05,6
+SL + Voluntary EIP,10,0.05,8
+SL + Voluntary EIP,11,0.05,6
+SL + Voluntary EIP,12,0.05,6
+SL + Voluntary EIP,13,0.05,3
+SL + Voluntary EIP,14,0.05,3
+SL + Voluntary EIP,15,0.05,6
+SL + Voluntary EIP,16,0.05,3
+SL + Voluntary EIP,17,0.05,2
+SL + Voluntary EIP,18,0.05,0
+SL + Voluntary EIP,19,0.05,6
+SL + Voluntary EIP,20,0.05,6
+SL + Voluntary EIP,21,0.05,6
+SL + Voluntary EIP,22,0.05,3
+SL + Voluntary EIP,23,0.05,6
+SL + Voluntary EIP,24,0.05,6
+SL + Voluntary EIP,25,0.05,8
+SL + Voluntary EIP,26,0.05,3
+SL + Voluntary EIP,27,0.05,6
+SL + Voluntary EIP,28,0.05,6
+SL + Voluntary EIP,29,0.05,11
+SL + Voluntary EIP,30,0.05,0
+SL + Voluntary EIP,1,0.1,2
+SL + Voluntary EIP,2,0.1,4
+SL + Voluntary EIP,3,0.1,1
+SL + Voluntary EIP,4,0.1,3
+SL + Voluntary EIP,5,0.1,3
+SL + Voluntary EIP,6,0.1,3
+SL + Voluntary EIP,7,0.1,2
+SL + Voluntary EIP,8,0.1,3
+SL + Voluntary EIP,9,0.1,2
+SL + Voluntary EIP,10,0.1,3
+SL + Voluntary EIP,11,0.1,2
+SL + Voluntary EIP,12,0.1,2
+SL + Voluntary EIP,13,0.1,1
+SL + Voluntary EIP,14,0.1,1
+SL + Voluntary EIP,15,0.1,2
+SL + Voluntary EIP,16,0.1,1
+SL + Voluntary EIP,17,0.1,1
+SL + Voluntary EIP,18,0.1,0
+SL + Voluntary EIP,19,0.1,2
+SL + Voluntary EIP,20,0.1,2
+SL + Voluntary EIP,21,0.1,2
+SL + Voluntary EIP,22,0.1,1
+SL + Voluntary EIP,23,0.1,2
+SL + Voluntary EIP,24,0.1,2
+SL + Voluntary EIP,25,0.1,3
+SL + Voluntary EIP,26,0.1,1
+SL + Voluntary EIP,27,0.1,2
+SL + Voluntary EIP,28,0.1,2
+SL + Voluntary EIP,29,0.1,4
+SL + Voluntary EIP,30,0.1,0
+SL + Voluntary EIP,1,0.15,0
+SL + Voluntary EIP,2,0.15,0
+SL + Voluntary EIP,3,0.15,0
+SL + Voluntary EIP,4,0.15,0
+SL + Voluntary EIP,5,0.15,0
+SL + Voluntary EIP,6,0.15,0
+SL + Voluntary EIP,7,0.15,0
+SL + Voluntary EIP,8,0.15,0
+SL + Voluntary EIP,9,0.15,0
+SL + Voluntary EIP,10,0.15,0
+SL + Voluntary EIP,11,0.15,0
+SL + Voluntary EIP,12,0.15,0
+SL + Voluntary EIP,13,0.15,0
+SL + Voluntary EIP,14,0.15,0
+SL + Voluntary EIP,15,0.15,0
+SL + Voluntary EIP,16,0.15,0
+SL + Voluntary EIP,17,0.15,0
+SL + Voluntary EIP,18,0.15,0
+SL + Voluntary EIP,19,0.15,0
+SL + Voluntary EIP,20,0.15,0
+SL + Voluntary EIP,21,0.15,0
+SL + Voluntary EIP,22,0.15,0
+SL + Voluntary EIP,23,0.15,0
+SL + Voluntary EIP,24,0.15,0
+SL + Voluntary EIP,25,0.15,0
+SL + Voluntary EIP,26,0.15,0
+SL + Voluntary EIP,27,0.15,0
+SL + Voluntary EIP,28,0.15,0
+SL + Voluntary EIP,29,0.15,0
+SL + Voluntary EIP,30,0.15,0
+SL + Designated EIP,1,0.05,10
+SL + Designated EIP,2,0.05,20
+SL + Designated EIP,3,0.05,16
+SL + Designated EIP,4,0.05,15
+SL + Designated EIP,5,0.05,14
+SL + Designated EIP,6,0.05,16
+SL + Designated EIP,7,0.05,16
+SL + Designated EIP,8,0.05,15
+SL + Designated EIP,9,0.05,17
+SL + Designated EIP,10,0.05,14
+SL + Designated EIP,11,0.05,13
+SL + Designated EIP,12,0.05,16
+SL + Designated EIP,13,0.05,15
+SL + Designated EIP,14,0.05,16
+SL + Designated EIP,15,0.05,15
+SL + Designated EIP,16,0.05,17
+SL + Designated EIP,17,0.05,18
+SL + Designated EIP,18,0.05,17
+SL + Designated EIP,19,0.05,18
+SL + Designated EIP,20,0.05,18
+SL + Designated EIP,21,0.05,16
+SL + Designated EIP,22,0.05,15
+SL + Designated EIP,23,0.05,16
+SL + Designated EIP,24,0.05,10
+SL + Designated EIP,25,0.05,13
+SL + Designated EIP,26,0.05,14
+SL + Designated EIP,27,0.05,17
+SL + Designated EIP,28,0.05,18
+SL + Designated EIP,29,0.05,14
+SL + Designated EIP,30,0.05,15
+SL + Designated EIP,1,0.1,0
+SL + Designated EIP,2,0.1,0
+SL + Designated EIP,3,0.1,0
+SL + Designated EIP,4,0.1,0
+SL + Designated EIP,5,0.1,0
+SL + Designated EIP,6,0.1,0
+SL + Designated EIP,7,0.1,0
+SL + Designated EIP,8,0.1,0
+SL + Designated EIP,9,0.1,0
+SL + Designated EIP,10,0.1,0
+SL + Designated EIP,11,0.1,0
+SL + Designated EIP,12,0.1,0
+SL + Designated EIP,13,0.1,0
+SL + Designated EIP,14,0.1,0
+SL + Designated EIP,15,0.1,0
+SL + Designated EIP,16,0.1,0
+SL + Designated EIP,17,0.1,0
+SL + Designated EIP,18,0.1,0
+SL + Designated EIP,19,0.1,0
+SL + Designated EIP,20,0.1,0
+SL + Designated EIP,21,0.1,0
+SL + Designated EIP,22,0.1,0
+SL + Designated EIP,23,0.1,0
+SL + Designated EIP,24,0.1,0
+SL + Designated EIP,25,0.1,0
+SL + Designated EIP,26,0.1,0
+SL + Designated EIP,27,0.1,0
+SL + Designated EIP,28,0.1,0
+SL + Designated EIP,29,0.1,0
+SL + Designated EIP,30,0.1,0
+SL + Designated EIP,1,0.15,4
+SL + Designated EIP,2,0.15,2
+SL + Designated EIP,3,0.15,6
+SL + Designated EIP,4,0.15,7
+SL + Designated EIP,5,0.15,5
+SL + Designated EIP,6,0.15,5
+SL + Designated EIP,7,0.15,7
+SL + Designated EIP,8,0.15,6
+SL + Designated EIP,9,0.15,7
+SL + Designated EIP,10,0.15,7
+SL + Designated EIP,11,0.15,6
+SL + Designated EIP,12,0.15,4
+SL + Designated EIP,13,0.15,5
+SL + Designated EIP,14,0.15,5
+SL + Designated EIP,15,0.15,7
+SL + Designated EIP,16,0.15,6
+SL + Designated EIP,17,0.15,6
+SL + Designated EIP,18,0.15,5
+SL + Designated EIP,19,0.15,6
+SL + Designated EIP,20,0.15,5
+SL + Designated EIP,21,0.15,7
+SL + Designated EIP,22,0.15,6
+SL + Designated EIP,23,0.15,7
+SL + Designated EIP,24,0.15,5
+SL + Designated EIP,25,0.15,5
+SL + Designated EIP,26,0.15,6
+SL + Designated EIP,27,0.15,5
+SL + Designated EIP,28,0.15,3
+SL + Designated EIP,29,0.15,6
+SL + Designated EIP,30,0.15,4
