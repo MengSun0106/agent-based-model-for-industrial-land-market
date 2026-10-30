@@ -12,7 +12,8 @@ This is a draft public-release package for the agent-based model, its required G
 - `02_Reproducibility/scripts/`: validation, analysis and plotting code. Some analyses require an explicitly supplied source file; see the run guide.
 - `02_Reproducibility/DATA_CATALOG.md`: file-level data descriptions.
 - `02_Reproducibility/EXPERIMENT_RUN_GUIDE.md`: simulation settings, seed counts and run lengths.
-- `CODE_USE_NOTICE.md`: temporary reuse status for the authors' original code before article publication.
+- `LICENSE`: MIT License for the authors' original model and analysis scripts; see `LICENSE_SCOPE.md` for exclusions.
+- `CODE_USE_NOTICE.md`: citation request and plain-language explanation of code reuse.
 
 ## Reproduce the main experiment
 
@@ -30,8 +31,8 @@ A fully pinned environment file is still to be added before release. See `02_Rep
 
 The package contains the data required to inspect the reported outputs and reproduce the analyses from the archived model outputs. The original parcel-level land-conveyance source file is not redistributed; only processed city-year summaries and provenance information are included. The land-price processing script therefore requires the original CSV to be supplied explicitly with `--input`; it does not rely on a path outside this package. The empirical-alignment script recomputes statistics from the archived simulation output and observed GDP data, but does not rerun the separate alignment simulation because that calibration model is not included here.
 
-The authors' original model and analysis code is available for inspection and review. Its temporary reuse status is described in `CODE_USE_NOTICE.md`; this notice does not set terms for third-party data, GIS files or software.
+The authors' original model and analysis scripts are licensed under MIT. This permits reuse immediately; the license does not apply to third-party GIS files, datasets or software. See `LICENSE_SCOPE.md` and the provenance records. Citation of the future article and versioned repository is requested as scholarly practice, although it is not a condition of the MIT License.
 
 ## Release status
 
-This is a release candidate. Before public release, the authors should approve the materials and citation metadata, freeze and checksum the final files, and test the package from a clean download. A formal licence for the authors' code and the final article citation will be added after publication.
+This is a release candidate. Before creating a Zenodo GitHub release, review the record-level license metadata carefully because this repository contains third-party GIS and data in addition to authors' code. Freeze and checksum the final files and test the package from a clean download.
