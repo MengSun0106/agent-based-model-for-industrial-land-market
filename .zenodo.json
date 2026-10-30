@@ -1,0 +1,21 @@
+{
+  "title": "Agent-based model for industrial land competition and cross-scale governance",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Sun, Meng",
+      "affiliation": "School of Public Affairs, Zhejiang University"
+    },
+    {
+      "name": "Cremades Rodeja, Roger",
+      "affiliation": "Sustainability Research Institute, University of Leeds"
+    },
+    {
+      "name": "Tan, Rong",
+      "affiliation": "School of Public Affairs, Zhejiang University"
+    }
+  ],
+  "description": "This repository contains a NetLogo agent-based model and supporting data, simulation outputs, experiment settings, validation scripts and plotting code. The model simulates intergovernmental competition for industrial investment, firm location choices, industrial land allocation and cross-scale cooperation policies. The MIT license applies to the authors' original model and analysis scripts as scoped in LICENSE_SCOPE.md."
+}
